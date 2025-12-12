@@ -152,4 +152,8 @@ with col_chart2:
 # --- DATAFRAME SUMMARY ---
 with st.expander("🔎 View Detailed Data Table"):
     # This requires 'pip install matplotlib'
+
     st.dataframe(df_chart.style.background_gradient(cmap="Greens"))
+
+st.sidebar.markdown("---")
+st.sidebar.caption("© 2025 | Developed by **Digvijay Ganesh Thakur**")
