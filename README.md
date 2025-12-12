@@ -12,7 +12,7 @@
 ## 🖼️ Project Preview
 
 ![Dashboard Preview](https://github.com/digvijaythakurdt/career-path-engine/blob/main/dashboard.png?raw=true)
---(Note: Upload a screenshot named `dashboard.png` to your repo to see the preview here)
+
 
 ---
 
